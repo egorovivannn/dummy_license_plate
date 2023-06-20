@@ -10,3 +10,9 @@ To run the project you need:
 
 
 Plates detection is implemented with yolov5 model. OCR model was taken from https://github.com/sirius-ai/LPRNet_Pytorch and doesnt work properly at the time.
+
+Results:
+
+![image](https://github.com/egorovivannn/dummy_license_plate/assets/88214807/4f7e7ff6-472d-40fa-9a61-328dbff24205)
+
+![image](https://github.com/egorovivannn/dummy_license_plate/assets/88214807/52be44b5-cc66-4286-8215-a5be569dec4b)

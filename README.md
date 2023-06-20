@@ -7,3 +7,6 @@ To run the project you need:
 4. run ```python main.py``` with folowing arguments:
    ```--img_path``` - for input image (e.g. ```-img_path /home/ivan/cars.jpeg```)
    ```--out_path``` - for output json with OCR of license plates (e.g. ```--out_path temp_results```)
+
+
+Plates detection is implemented with yolov5 model. OCR model was taken from https://github.com/sirius-ai/LPRNet_Pytorch and doesnt work properly at the time.

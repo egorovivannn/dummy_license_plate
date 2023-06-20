@@ -1,0 +1,7 @@
+yolov5
+torch
+numpy
+Pillow
+typing
+opencv-python
+argparse

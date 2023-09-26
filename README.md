@@ -1,5 +1,5 @@
 ### Project for license plate detection and recognition.
-**The task was to implement the detection and recognition of car license plates in within 2 hours**
+**The task was to implement the detection and recognition of car license plates within 2 hours**
 
 To run the project you need:
 1. Download weights  from https://drive.google.com/drive/folders/1kz-_czvaMhZ0ubTsiPN2fOthPXyZzCGe?usp=sharing

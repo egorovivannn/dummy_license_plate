@@ -1,4 +1,4 @@
-### Project for license plate detection and recognition.
+### Project for license plate detection and recognition TEST TASK.
 **The task was to implement the detection and recognition of car license plates within 2 hours**
 
 To run the project you need:
